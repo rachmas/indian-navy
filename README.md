@@ -86,8 +86,13 @@
 
 <th>google search preview</th>
 
-<td>home www.joinindiannavy.gov.in  skip to navigation skip to content uic.cic.duwa.du radio.dumail.contact us.</td><br>
+<td>home www.joinindiannavy.gov.in  skip to navigation skip to content joinindiannavy.gov.in mail.contact us.</td><br>
 
+</tr>
+<tr>
+<th>HTML Page Size Test</th>
+<td> Your HTML size is 10.64 Kb and this is under the average web page size of 33 Kb. 
+This leads to a faster page loading time than average.</td><br>
 </tr>
 
 </table>
