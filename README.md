@@ -66,7 +66,7 @@
 
 
 <th>page rank</th>
-<td>7</td><br>
+<td>0</td><br>
 
 </tr>
 
