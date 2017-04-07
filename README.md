@@ -1,3 +1,4 @@
+
 # indian-navy
 <html>
 
@@ -15,13 +16,7 @@
 
 </tr>
 
-<tr>
 
-<th>page title</th>
-
-<td>the search engines will truncate page title to 65 characters </td><br>
-
-</tr>
 
 <tr>
 
@@ -48,8 +43,9 @@ Different web servers have different instructions</td><br>
 <tr>
 
 
-<th>page rank</th>
-<td>0</td><br>
+<th>inline css test</th>
+<td>a web page should not use inline css </td>
+<td>remove inline css and add it in external css files</td><br>
 
 </tr>
 
