@@ -6,7 +6,7 @@
 
 
 <table>
-<body bg color ="#12AAAA">
+
 
 <b><i>indian navy</i></b>
 
@@ -186,7 +186,6 @@ Google Does not accept Meta keywords any more.</td>
 
 
 
-</body>
 
 
 </table>
@@ -194,3 +193,6 @@ Google Does not accept Meta keywords any more.</td>
 </body>
 
 </html>
+
+<html>
+<body> <marquee direction ="left">this text will scroll from right to left </marquee></body></html>
