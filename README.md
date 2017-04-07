@@ -19,8 +19,7 @@
 
 <th>page title</th>
 
-<td>the search engines will truncate page title to 65 characters </td>
-<br>
+<td>the search engines will truncate page title to 65 characters </td><br>
 
 </tr>
 
@@ -58,7 +57,7 @@ Different web servers have different instructions</td><br>
 
 <th>image alt test</th>
 <td>require 'alt'attribute</td>
-<td><img id= "t750-1695" style ="width:80%; height: auto;" alt="indian navy" src="/image/in.jpg" width="376" height="5"/></td><br>
+<td><img id= "t750-1695" style ="width:80%; height: auto;" alt="indian navy" src="/image/in.jpg" width="25" height="25"/></td><br>
 </tr>
 
 <tr>
