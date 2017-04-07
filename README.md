@@ -27,40 +27,22 @@
 <tr>
 
 <th>meta description</th>
-<td>most search engines will truncate meta descriptions to 160 characters<td><br>
+<td>most search engines will truncate meta descriptions to 160 characters<td>
+<td>The Indian Navy  is the naval branch of the Indian Armed Forces. The President of India serves as Supreme Commander of the Indian Navy</td><br>
 
 
 </tr>
 
-<tr>
-
-<th>keywords test</th>
-<td>search engine alogorithms have evolved beyond keyword density metrics as a significant ranking factor it can be useful however to note which keywords appear most often in the page and if they reflect the intended topic of your page more importantly the keywords in your page should appear within natural sounding and grammatically correct copy</td><br>
-
-</tr>
-
-<tr>
-
-<th>age</th>
-
-<td>28 fabruary 2028 05:00:00 utc</td><br>
-
-</tr>
-
-<tr>
 
 
-<th>html page size test</th>
-
-<td>10.24 kb</td><br>
-
-</tr>
 
 <tr>
 
 <th>html compreession test</th>
 
-<td>gzip compression</td><br>
+<td>gzip compression</td>
+<td>Compression is enabled via webserver configuration
+Different web servers have different instructions</td><br>
 
 </tr>
 
@@ -75,7 +57,8 @@
 <tr>
 
 <th>image alt test</th>
-<td>require 'alt'attribute</td><br>
+<td>require 'alt'attribute</td>
+<td><img id= "t750-1695" style ="width:80%; height: auto;" alt="indian navy" src="/image/in.jpg" width="376" height="5"/></td><br>
 </tr>
 
 <tr>
