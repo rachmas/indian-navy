@@ -57,7 +57,7 @@ Different web servers have different instructions</td><br>
 
 <th>image alt test</th>
 <td>require 'alt'attribute</td>
-<td><img id= "t750-1695" style ="width:80%; height: auto;" alt="indian navy" src="/image/in.jpg" width="25" height="25"/></td><br>
+<td><img id= "t750-1695" style ="width:80%; height: auto;" alt="indian navy" src="/image/in.jpg" width="100" height="100"/></td><br>
 </tr>
 
 <tr>
