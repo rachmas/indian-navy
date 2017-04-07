@@ -10,7 +10,8 @@
 <tr>
 
 <th><b> title</b></th>
-<td><b>description</b></td><br>
+<td><b>description</b></td>
+<td><b>suggestion</b></td><br>
 
 </tr>
 
@@ -18,7 +19,8 @@
 
 <th>page title</th>
 
-<td>the search engines will truncate page title to 65 characters </td><br>
+<td>the search engines will truncate page title to 65 characters </td>
+<br>
 
 </tr>
 
