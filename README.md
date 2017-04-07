@@ -171,6 +171,14 @@ This leads to a faster page loading time than average.</td>
 <td>good</td><br>
 </tr>
 
+<tr>
+<th>Meta keywords</th>
+<td>The Meta keywords length of your page is 0 characters.</td>
+<td>Use ‘-‘(hyphens) to separate keywords in the URLS. For example: www.domain.com/this-is-a-good-url.
+Google Does not accept Meta keywords any more.</td>
+<td>not good</td><br>
+</tr>
+
 
 
 
