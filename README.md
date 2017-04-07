@@ -12,7 +12,8 @@
 
 <th><b> title</b></th>
 <td><b>description</b></td>
-<td><b>suggestion</b></td><br>
+<td><b>suggestion</b></td>
+<td><b>status</b></td><br>
 
 </tr>
 
@@ -21,7 +22,7 @@
 <tr>
 
 <th>meta description</th>
-<td>most search engines will truncate meta descriptions to 160 characters<td>
+<td>most search engines will truncate meta descriptions to 160 characters</td>
 <td>The Indian Navy  is the naval branch of the Indian Armed Forces. The President of India serves as Supreme Commander of the Indian Navy</td><br>
 
 
@@ -33,7 +34,6 @@
 <tr>
 
 <th>html compreession test</th>
-
 <td>gzip compression</td>
 <td>Compression is enabled via webserver configuration
 Different web servers have different instructions</td><br>
