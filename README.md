@@ -91,7 +91,7 @@ This leads to a faster page loading time than average.</td>
 <th>SEO score</th>
 <td>73</td>
 <td>Make the website seo friendly to increase the score</td>
-<td></td>better than ok<br>
+<td>better than ok</td><br>
 </tr>
 
 <tr>
