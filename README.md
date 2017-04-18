@@ -58,7 +58,7 @@ Different web servers have different instructions</td>
 <th>4</th>
 <th>image alt test</th>
 <td>require 'alt'attribute</td>
-<td><img id= "t750-1695" style ="width:80%; height: auto;" alt="http://www.jobsalert4u.in/wp-content/uploads/2016/05/indian-navy-300x160.jpg" width="100" height="100"/></td>
+<td><img id= "t750-1695" style ="width:80%; height: auto;" alt="upload.wikimedia.org/wikipedia/en/5/56/Indian_Navy_logo.png" width="100" height="100"/></td>
 <td>good</td><br>
 </tr>
 
