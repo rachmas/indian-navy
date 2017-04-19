@@ -78,7 +78,7 @@ Different web servers have different instructions</td>
 
 <td>home www.joinindiannavy.gov.in  skip to navigation skip to content joinindiannavy.gov.in mail.contact us.</td>
 <td>4, Financial Statement of Cadre Review Proposal of Civilian Education ... 13, Cadre Review – NavalArmament Inspection Cadre</td>
-<td>info</td><br>
+<td>ok</td><br>
 
 </tr>
 <tr>
@@ -167,7 +167,7 @@ This leads to a faster page loading time than average.</td>
 <th>Disallow Directive Checker</th>
 <td>Your robots.txt file disallow the search engines access to some parts of your website. </td>
 <td>You are advised to check carefully if the access to these resources or pages must be blocked.</td>
-<td>info</td><br>
+<td>ok</td><br>
 </tr>
 
 <tr>
